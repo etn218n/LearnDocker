@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><root>
     <License id="Terms">
         <MachineBindings>
-            <Binding Key="1" Value="00329-00000-00003-AA162"/>
-            <Binding Key="4" Value="MDAyMi03ODc0LTA3NzItMjAxOS0wNjYzLTQ4NTEtNTI="/>
-            <Binding Key="5" Value="00:15:5d:b5:d4:56"/>
+            <Binding Key="1" Value="00329-00000-00003-AA162" />
+            <Binding Key="4" Value="MDAyMi03ODc0LTA3NzItMjAxOS0wNjYzLTQ4NTEtNTI=" />
+            <Binding Key="5" Value="00:15:5d:b5:db:ed" />
         </MachineBindings>
-        <MachineID Value="DFf+pxZ1DswNPkUETMawo5fHGQY="/>
+        <MachineID Value="DFf+pxZ1DswNPkUETMawo5fHGQY=" />
         <SerialHash Value="258afb9f5b0d04bc68bfa3536455dabf6ca2f768"/>
         <Features>
             <Feature Value="33"/>
